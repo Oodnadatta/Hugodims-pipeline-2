@@ -1,0 +1,4 @@
+---
+ref: "/PUBLIC_DATA/ReferenceGenomes/GRCh38/bwa_index/GRCh38.p2.ref.fa"
+workdir : "dataset"
+
